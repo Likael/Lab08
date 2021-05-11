@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="usun">Usuń</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="jednostka">Jednostka</string>
+    <string name="ilosc">Ilość</string>
+    <string name="stan">Stan magazynu</string>
+</resources>
